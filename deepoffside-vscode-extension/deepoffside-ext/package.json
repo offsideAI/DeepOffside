@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "deepoffside-ext.helloWorld",
-        "title": "Hello World"
+        "command": "deepoffside-ext.greeting",
+        "title": "Greeting"
       }
     ]
   },
